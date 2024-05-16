@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Eric Hempfling",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,10 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ehemp/boilerplate-npm.git"
-	},
-	"author": {
-		"name": "Eric Hempfling"
 	}
-
 	
 }
