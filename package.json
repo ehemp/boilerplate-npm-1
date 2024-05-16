@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git",
+		"url": "https://github.com/ehemp/boilerplate-npm.git"
 	},
 	"author": {
 		"name": "Eric Hempfling"
