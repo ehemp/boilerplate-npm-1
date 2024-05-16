@@ -41,7 +41,7 @@ app.route('/')
 // Respond not found to all the wrong routes
 app.use(function(req, res, next){
   res.status(404);
-  res.type('txt').send('Not found');
+  res.type('txt').send('Not found-FromGit');
 });
 
 // Error Middleware
